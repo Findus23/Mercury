@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -f KEP*.aei  APOLLO.aei APOLLO.clo big.dmp big.tmp ce.out  EARTHMOO.aei EARTHMOO.clo info.out JASON.aei JASON.clo JUPITER.aei JUPITER.clo KHUFU.aei KHUFU.clo MARS.aei MARS.clo MERCURY.aei MERCURY.clo MINOS.aei MINOS.clo NEPTUNE.aei NEPTUNE.clo ORPHEUS.aei ORPHEUS.clo param.dmp param.tmp PLUTO.aei PLUTO.clo restart.dmp restart.tmp SATURN.aei SATURN.clo small.dmp small.tmp TOUTATIS.aei TOUTATIS.clo URANUS.aei URANUS.clo VENUS.aei VENUS.clo xv.out
